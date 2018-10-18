@@ -1,0 +1,4 @@
+#Tue Oct 09 22:49:45 BST 2018
+base.0=C\:\\Users\\michal\\AndroidStudioProjects\\CourtCounter\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex
