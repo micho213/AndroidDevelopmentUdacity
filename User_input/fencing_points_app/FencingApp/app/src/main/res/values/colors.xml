@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#347faa</color>
+    <color name="colorPrimaryDark">#0a0014</color>
+    <color name="colorAccent">#51383b</color>
+    <color name="bgcolor">#aac9e0</color>
+    <color name="playerA">#2126b2</color>
+    <color name="playerB">#8f0b91</color>
+    <color name="start">#2ff215</color>
+    <color name="stop">#f72a34</color>
+    <color name="doublePoint">#27845d</color>
+    <color name="yellow">#e9f74f</color>
+
+</resources>
